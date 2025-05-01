@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "sekiz_tas_a_star/1.0.0": {
+        "runtime": {
+          "sekiz_tas_a_star.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sekiz_tas_a_star/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\hakan\source\repos\sekiz_tas_a_star\sekiz_tas_a_star\bin\Debug\net8.0-windows\sekiz_tas_a_star.exe
+C:\Users\hakan\source\repos\sekiz_tas_a_star\sekiz_tas_a_star\bin\Debug\net8.0-windows\sekiz_tas_a_star.deps.json
+C:\Users\hakan\source\repos\sekiz_tas_a_star\sekiz_tas_a_star\bin\Debug\net8.0-windows\sekiz_tas_a_star.runtimeconfig.json
+C:\Users\hakan\source\repos\sekiz_tas_a_star\sekiz_tas_a_star\bin\Debug\net8.0-windows\sekiz_tas_a_star.dll
+C:\Users\hakan\source\repos\sekiz_tas_a_star\sekiz_tas_a_star\bin\Debug\net8.0-windows\sekiz_tas_a_star.pdb
+C:\Users\hakan\source\repos\sekiz_tas_a_star\sekiz_tas_a_star\obj\Debug\net8.0-windows\sekiz_tas_a_star.Form1.resources
+C:\Users\hakan\source\repos\sekiz_tas_a_star\sekiz_tas_a_star\obj\Debug\net8.0-windows\sekiz_tas_a_star.csproj.GenerateResource.cache
+C:\Users\hakan\source\repos\sekiz_tas_a_star\sekiz_tas_a_star\obj\Debug\net8.0-windows\sekiz_tas_a_star.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan\source\repos\sekiz_tas_a_star\sekiz_tas_a_star\obj\Debug\net8.0-windows\sekiz_tas_a_star.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\sekiz_tas_a_star\sekiz_tas_a_star\obj\Debug\net8.0-windows\sekiz_tas_a_star.AssemblyInfo.cs
+C:\Users\hakan\source\repos\sekiz_tas_a_star\sekiz_tas_a_star\obj\Debug\net8.0-windows\sekiz_tas_a_star.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\sekiz_tas_a_star\sekiz_tas_a_star\obj\Debug\net8.0-windows\sekiz_tas_a_star.dll
+C:\Users\hakan\source\repos\sekiz_tas_a_star\sekiz_tas_a_star\obj\Debug\net8.0-windows\refint\sekiz_tas_a_star.dll
+C:\Users\hakan\source\repos\sekiz_tas_a_star\sekiz_tas_a_star\obj\Debug\net8.0-windows\sekiz_tas_a_star.pdb
+C:\Users\hakan\source\repos\sekiz_tas_a_star\sekiz_tas_a_star\obj\Debug\net8.0-windows\sekiz_tas_a_star.genruntimeconfig.cache
+C:\Users\hakan\source\repos\sekiz_tas_a_star\sekiz_tas_a_star\obj\Debug\net8.0-windows\ref\sekiz_tas_a_star.dll
